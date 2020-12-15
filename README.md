@@ -4,19 +4,19 @@ An application that can show you some local Meals and the recipe of it.
 ### Features
 * Categories of Meals
 * Favorites Meals
-..* Add Meal to Favorites
-..* Remove Meal from Favorites
+    * Add Meal to Favorites
+    * Remove Meal from Favorites
 * Filters on Meals
-..* Gluten-Free
-..* Lactose-Free
-..* Vegetarian
-..* Vegan
+    * Gluten-Free
+    * Lactose-Free
+    * Vegetarian
+    * Vegan
 * Meal Details Page
-..* Ingredients
-..* Steps to cook recipe
+    * Ingredients
+    * Steps to cook recipe
 * Custom Drawer
-..* Meals
-..* Filters
+    * Meals
+    * Filters
 * Responsive UI
 
 ### Screen shots
